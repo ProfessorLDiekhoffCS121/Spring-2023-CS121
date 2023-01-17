@@ -54,7 +54,7 @@ For more details see [GitHub Markdown](https://docs.github.com/en/get-started/wr
 ```
 ![avatar](https://user-images.githubusercontent.com/47011627/73045341-1f716200-3e33-11ea-82cf-7d6860a71cb9.jpg)
 
-### Resources To Understand GitHub
+### GitHub Resources
 | Number | Item | Description |
 | :----: | ------ | ----------- |
 | R1| [Github Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)   |Github Terminology|
