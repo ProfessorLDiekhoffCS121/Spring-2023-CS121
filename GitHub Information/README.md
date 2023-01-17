@@ -1,7 +1,7 @@
 # Spring-2023-CS121
 ## Welcome to GitHub 
 
-You can use the [editor on GitHub](https://github.com/Ladelle/Ladelle/edit/master/README.md) to maintain and preview the content for your wGitHub in Markdown files.
+You can maintain and preview the content for your GitHub using Markdown.
 
 ### Markdown
 
@@ -25,7 +25,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Markdown]([https://guides.github.com/features/mastering-markdown/](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+
+### Creating Tables in READ.md
 
 ```Creating Tables in READ.md
 | Number | Title| Description |
@@ -35,11 +38,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 ```
-#### Image:
-
-
-#### Avatar:
-![avatar](https://user-images.githubusercontent.com/47011627/73045341-1f716200-3e33-11ea-82cf-7d6860a71cb9.jpg)
 
 | Number | Item | Description |
 | :----: | ------ | ----------- |
@@ -73,8 +71,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - [__Final Exam: SECTION 1__] Friday May 5<sup>th</sup>, 7:30 a.m. - 9:30 a.m.
 - [__Final Exam: SECTION 2__] Friday May 5<sup>th</sup>, 12:00 p.m. - 2:00 p.m.
 
-## Course Topics
-TBD
+
+#### Avatar:
+![avatar](https://user-images.githubusercontent.com/47011627/73045341-1f716200-3e33-11ea-82cf-7d6860a71cb9.jpg)
 
 
 
