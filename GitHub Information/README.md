@@ -1,15 +1,9 @@
 # Spring-2023-CS121
+#### Image:
+![oceandell](https://user-images.githubusercontent.com/47011627/73045198-922e0d80-3e32-11ea-82b1-b168961c026b.JPG)
 
-| Number | Repository | Description |
-| :----: | ------ | ----------- |
-| A1| [Scanner and Dialog](https://github.com/ProfessorLDiekhoffCS121/Fall-2022-CS121/tree/main/Assignment1)   |Understanding How To Use Scanner and Dialog|
-| xx| [x ](https://github.com/ProfessorLDiekhoffCS121)|xx|
-| xx| [x](https://github.com/ProfessorLDiekhoffCS121)   |xx|
-
-
-
-
-
+#### Avatar:
+![avatar](https://user-images.githubusercontent.com/47011627/73045341-1f716200-3e33-11ea-82cf-7d6860a71cb9.jpg)
 
 | Number | Item | Description |
 | :----: | ------ | ----------- |
