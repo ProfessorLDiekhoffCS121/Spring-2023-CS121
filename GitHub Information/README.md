@@ -25,7 +25,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Markdown]([https://guides.github.com/features/mastering-markdown/](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
 ### Creating Tables in READ.md
@@ -49,6 +49,7 @@ For more details see [GitHub Markdown]([https://guides.github.com/features/maste
 | R5| [Github desktop info](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop) |Github Desktop|
 | R6| [Github and intelliJ](https://www.jetbrains.com/help/idea/github.html#register-account) |Github and intellij|
 | R7| [Github Desktop adding Branches](https://www.softwaretestinghelp.com/github-desktop-tutorial/) |Github making branches|
+| R8| [Github Adding Image to READ.md](https://www.geeksforgeeks.org/how-to-add-images-on-readme-md-file-in-a-github-repository-from-the-local-system/) |Github adding picture|
 
 
 
