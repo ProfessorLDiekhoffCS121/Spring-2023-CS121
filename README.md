@@ -10,7 +10,7 @@
 
 
 
-
+## GitHub Resources
 | Number | Item | Description |
 | :----: | ------ | ----------- |
 | R1| [Github Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)   |Github Terminology|
