@@ -3,7 +3,7 @@
 | Number | Repository | Description |
 | :----: | ------ | ----------- |
 | A1| [Scanner and Dialog](https://github.com/ProfessorLDiekhoffCS121/Fall-2022-CS121/tree/main/Assignment1)   |Understanding How To Use Scanner and Dialog|
-| xx| [x ](https://github.com/ProfessorLDiekhoffCS121|xx|
+| xx| [x ](https://github.com/ProfessorLDiekhoffCS121)|xx|
 | xx| [x](https://github.com/ProfessorLDiekhoffCS121)   |xx|
 
 
