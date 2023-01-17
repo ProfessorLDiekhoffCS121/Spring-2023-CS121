@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -38,6 +38,21 @@ For more details see [GitHub Markdown](https://docs.github.com/en/get-started/wr
 
 
 ```
+### Adding Photos to GitHub READ.md
+## Refer to R8 in the table below titled Github Adding Image to READ.md
+
+```adding image to READ.md
+
+  [Link](url) and ![Image](src)
+
+```
+## The example below is what the avatar looks like.
+```
+  
+  ![avatar](https://user-images.githubusercontent.com/47011627/73045341-1f716200-3e33-11ea-82cf-7d6860a71cb9.jpg)
+
+```
+![avatar](https://user-images.githubusercontent.com/47011627/73045341-1f716200-3e33-11ea-82cf-7d6860a71cb9.jpg)
 
 ### Resources To Understand GitHub
 | Number | Item | Description |
@@ -72,11 +87,6 @@ For more details see [GitHub Markdown](https://docs.github.com/en/get-started/wr
 - [__Last Day of Physical Class:__](https://www.bsu.edu/-/media/www/files/events/pdf/2022-23-academic-calendar-umc.pdf?sc_lang=en&hash=0EA155A7AFD8C67B719EDEED30557A89BB43A40C) Mon May 1<sup>th</sup>
 - [__Final Exam: SECTION 1__] Friday May 5<sup>th</sup>, 7:30 a.m. - 9:30 a.m.
 - [__Final Exam: SECTION 2__] Friday May 5<sup>th</sup>, 12:00 p.m. - 2:00 p.m.
-
-
-#### Avatar:
-![avatar](https://user-images.githubusercontent.com/47011627/73045341-1f716200-3e33-11ea-82cf-7d6860a71cb9.jpg)
-
 
 
 
