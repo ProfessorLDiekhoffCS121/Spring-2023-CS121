@@ -1,6 +1,34 @@
 # Spring-2023-CS121
+## Welcome to GitHub 
+
+You can use the [editor on GitHub](https://github.com/Ladelle/Ladelle/edit/master/README.md) to maintain and preview the content for your wGitHub in Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 #### Image:
-![oceandell](https://user-images.githubusercontent.com/47011627/73045198-922e0d80-3e32-11ea-82b1-b168961c026b.JPG)
+
 
 #### Avatar:
 ![avatar](https://user-images.githubusercontent.com/47011627/73045341-1f716200-3e33-11ea-82cf-7d6860a71cb9.jpg)
