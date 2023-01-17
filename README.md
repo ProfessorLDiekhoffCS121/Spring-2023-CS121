@@ -2,8 +2,8 @@
 
 | Number | Repository | Description |
 | :----: | ------ | ----------- |
-| A1| [Scanner and Dialog](https://github.com/ProfessorLDiekhoffCS121/Fall-2022-CS121/tree/main/Assignment1)   |Understanding How To Use Scanner and Dialog|
-| xx| [x ](https://github.com/ProfessorLDiekhoffCS121)|xx|
+| A1| [Scanner and Dialog](https://github.com/ProfessorLDiekhoffCS121/Spring-2023-CS121/tree/main/Activity%201)   |Understanding How To Use Scanner and Dialog|
+| A2| [Conditional  ](https://github.com/ProfessorLDiekhoffCS121/Spring-2023-CS121/tree/main/Activity%202)|Understanding How To Use Conditional Statements|
 | xx| [x](https://github.com/ProfessorLDiekhoffCS121)   |xx|
 
 
